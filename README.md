@@ -8,8 +8,8 @@ please see https://scryfall.com/docs/faqs/where-do-scryfall-prices-come-from-7
 
 how to use the tool 
 
-1. download the zip file from the github
+1. download deckprice.py and requirements.txt (requirements.txt is not required)
 2. install the latest version of python (if you dont already have it)
-3. run pip install -r requirements.txt to install the requirements (at the moment its only requests and tk)
+3. run pip install -r requirements.txt to install the requirements, if you chose not to download requirements.txt instead run pip install requests tk
 4. run deckprice.py
 5. input each cards (or individual cards) into the box and click calculate price
